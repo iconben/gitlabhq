@@ -127,7 +127,7 @@ msgid "Abuse Reports"
 msgstr "滥用报告"
 
 msgid "Abuse reports"
-msgstr ""
+msgstr "滥用报告"
 
 msgid "Access Tokens"
 msgstr "访问令牌"
@@ -244,10 +244,10 @@ msgid "Allow edits from maintainers."
 msgstr "允许上游项目维护人员进行编辑。"
 
 msgid "Allow rendering of PlantUML diagrams in Asciidoc documents."
-msgstr ""
+msgstr "允许在 Asciidoc 文档中渲染 PlantUML 图"
 
 msgid "Allow requests to the local network from hooks and services."
-msgstr ""
+msgstr "允许 hooks 和服务向本地网络发起请求"
 
 msgid "Allows you to add and manage Kubernetes clusters."
 msgstr "这里可以添加和管理 Kubernetes 集群。"
@@ -376,7 +376,7 @@ msgid "Are you sure?"
 msgstr "确定吗？"
 
 msgid "Artifacts"
-msgstr "产物"
+msgstr "生成物"
 
 msgid "Assertion consumer service URL"
 msgstr ""
@@ -427,7 +427,7 @@ msgid "Auto DevOps enabled"
 msgstr "启用Auto DevOps"
 
 msgid "Auto DevOps, runners and job artifacts"
-msgstr ""
+msgstr "Auto DevOps, runners 和 作业生成物"
 
 msgid "Auto Review Apps and Auto Deploy need a %{kubernetes} to work correctly."
 msgstr "自动审阅程序和自动部署程序需要 %{kubernetes} 才能正常工作。"
@@ -472,10 +472,10 @@ msgid "Average per day: %{average}"
 msgstr "平均每天: %{average}"
 
 msgid "Background Color"
-msgstr ""
+msgstr "b背景颜色"
 
 msgid "Background jobs"
-msgstr ""
+msgstr "后台作业"
 
 msgid "Begin with the selected commit"
 msgstr "从选定的提交开始"
@@ -728,7 +728,7 @@ msgid "Change Weight"
 msgstr "改变权重"
 
 msgid "Change this value to influence how frequently the GitLab UI polls for updates."
-msgstr ""
+msgstr "改变该值以影响 GitLab 界面拉取更新的频率"
 
 msgid "ChangeTypeActionLabel|Pick into branch"
 msgstr "选择分支"
@@ -1291,7 +1291,7 @@ msgid "Compare changes with the last commit"
 msgstr "与上个提交比较变更内容"
 
 msgid "Compare changes with the merge request target branch"
-msgstr ""
+msgstr "与合并请求的目标分支比较变更内容"
 
 msgid "CompareBranches|%{source_branch} and %{target_branch} are the same."
 msgstr "%{source_branch} 和 %{target_branch} 是相同的"
@@ -1315,16 +1315,16 @@ msgid "Confidentiality"
 msgstr "私密性"
 
 msgid "Configure Gitaly timeouts."
-msgstr ""
+msgstr "配置 Gitaly 超时"
 
 msgid "Configure Sidekiq job throttling."
-msgstr ""
+msgstr "配置 Sidekiq 作业调节值"
 
 msgid "Configure automatic git checks and housekeeping on repositories."
-msgstr ""
+msgstr "配置代码仓库上的自动 git 检查和自动 housekeeping"
 
 msgid "Configure limits for web and API requests."
-msgstr ""
+msgstr "配置 web 和 API 请求的限制"
 
 msgid "Configure storage path and circuit breaker settings."
 msgstr ""
@@ -1534,7 +1534,7 @@ msgid "Custom notification levels are the same as participating levels. With cus
 msgstr "自定义通知级别继承自参与级别。使用自定义通知级别，您会收到参与级别及选定事件的通知。想了解更多信息，请查看 %{notification_link}."
 
 msgid "Customize colors"
-msgstr ""
+msgstr "自定义颜色"
 
 msgid "Cycle Analytics"
 msgstr "周期分析"
@@ -2305,7 +2305,7 @@ msgid "Housekeeping successfully started"
 msgstr "已开始维护"
 
 msgid "Identity provider single sign on URL"
-msgstr ""
+msgstr "身份提供者单点登录 URL"
 
 msgid "If enabled, access to projects will be validated on an external service using their classification label."
 msgstr "如果启用，则使用外部服务上的分类标签来验证对项目的访问权限。"
@@ -2959,7 +2959,7 @@ msgid "Once imported, repositories can be mirrored over SSH. Read more %{ssh_lin
 msgstr "仓库导入后，可以通过 SSH 拉取镜像。了解更多 %{ssh_link}"
 
 msgid "Online IDE integration settings."
-msgstr ""
+msgstr "在线 IDE 集成设置"
 
 msgid "Only project members can comment."
 msgstr "只有项目成员可以发表评论。"
@@ -2983,7 +2983,7 @@ msgid "Otherwise it is recommended you start with one of the options below."
 msgstr "否则，建议您从下面的一个选项开始。"
 
 msgid "Outbound requests"
-msgstr ""
+msgstr "外发的请求"
 
 msgid "Overview"
 msgstr "概览"
@@ -3016,7 +3016,7 @@ msgid "Pending"
 msgstr "等待处理"
 
 msgid "Performance optimization"
-msgstr ""
+msgstr "性能优化"
 
 msgid "Personal Access Token"
 msgstr "个人访问凭证"
@@ -3163,7 +3163,7 @@ msgid "Pipeline|with stages"
 msgstr "于阶段"
 
 msgid "PlantUML"
-msgstr ""
+msgstr "PlantUML"
 
 msgid "Play"
 msgstr "运行"
@@ -3475,7 +3475,7 @@ msgid "Readme"
 msgstr "自述文件"
 
 msgid "Real-time features"
-msgstr ""
+msgstr "实时功能"
 
 msgid "RefSwitcher|Branches"
 msgstr "分支"
@@ -3538,13 +3538,13 @@ msgid "Repository has no locks."
 msgstr "当前仓库无加锁文件。"
 
 msgid "Repository maintenance"
-msgstr ""
+msgstr "代码仓库维护"
 
 msgid "Repository mirror settings"
-msgstr ""
+msgstr "代码仓库镜像设置"
 
 msgid "Repository storage"
-msgstr ""
+msgstr "代码仓库存储"
 
 msgid "Request Access"
 msgstr "申请权限"
@@ -3578,10 +3578,10 @@ msgid "Review the process for configuring service providers in your identity pro
 msgstr ""
 
 msgid "Reviewing"
-msgstr "检查"
+msgstr "审阅中"
 
 msgid "Reviewing (merge request !%{mergeRequestId})"
-msgstr ""
+msgstr "审阅中 (合并请求 !%{mergeRequestId})"
 
 msgid "Roadmap"
 msgstr "路线图"
@@ -3596,10 +3596,10 @@ msgid "Running"
 msgstr "运行中"
 
 msgid "SAML Single Sign On"
-msgstr ""
+msgstr "SAML 单点登录"
 
 msgid "SAML Single Sign On Settings"
-msgstr ""
+msgstr "SAML 单点登录设置"
 
 msgid "SHA1 fingerprint of the SAML token signing certificate. Get this from your identity provider, where it can also be called \"Thumbprint\"."
 msgstr ""
@@ -3707,10 +3707,10 @@ msgid "Set default and restrict visibility levels. Configure import sources and 
 msgstr "设定缺省及受限可见性级别。配置导入来源及git访问协议。"
 
 msgid "Set max session time for web terminal."
-msgstr ""
+msgstr "设置 web 终端的最大会话时间"
 
 msgid "Set notification email for abuse reports."
-msgstr ""
+msgstr "设置滥用报告的通知邮箱"
 
 msgid "Set requirements for a user to sign-in. Enable mandatory two-factor authentication."
 msgstr "设定用户登录的条件。启用强制双重认证。"
@@ -3734,7 +3734,7 @@ msgid "Setup a specific Runner automatically"
 msgstr "自动创建独享Runner"
 
 msgid "Share the <strong>%{sso_label}</strong> with members so they can sign in to your group through your identity provider"
-msgstr ""
+msgstr "将<strong>%{sso_label}</strong>分享给成员以便他们能通过你的身份提供者登录到你的组"
 
 msgid "SharedRunnersMinutesSettings|By resetting the pipeline minutes for this namespace, the currently used minutes will be set to zero."
 msgstr "通过重置此命名空间的流水线分钟数，当前使用的分钟数将被归零。"
@@ -3780,7 +3780,7 @@ msgid "Size and domain settings for static websites"
 msgstr "静态网站的大小和域设置"
 
 msgid "Slack application"
-msgstr ""
+msgstr "Slack 应用"
 
 msgid "Snippets"
 msgstr "代码片段"
@@ -3975,7 +3975,7 @@ msgid "System Hooks"
 msgstr "系统钩子"
 
 msgid "System header and footer:"
-msgstr ""
+msgstr "系统页面与页脚"
 
 msgid "Tag (%{tag_count})"
 msgid_plural "Tags (%{tag_count})"
@@ -4539,7 +4539,7 @@ msgid "Upvotes"
 msgstr "顶"
 
 msgid "Usage statistics"
-msgstr ""
+msgstr "使用情况统计"
 
 msgid "Use Service Desk to connect with your users (e.g. to offer customer support) through email right inside GitLab"
 msgstr "使用服务台在GitLab内部通过电子邮件与用户联系（例如提供客户支持）"
@@ -4551,7 +4551,7 @@ msgid "Use your global notification setting"
 msgstr "使用全局通知设置"
 
 msgid "Used by members to sign in to your group in GitLab"
-msgstr ""
+msgstr "用来供成员在 GitLab 中登录到你的组"
 
 msgid "User and IP Rate Limits"
 msgstr ""
@@ -4560,13 +4560,13 @@ msgid "Variables are applied to environments via the runner. They can be protect
 msgstr "变量通过runner作用于环境中。可将变量限制为仅受保护的分支或标签可以访问。可以使用变量来保存密码、密钥或任何其他内容。"
 
 msgid "Various container registry settings."
-msgstr ""
+msgstr "多项容器注册表设置"
 
 msgid "Various email settings."
-msgstr ""
+msgstr "多项邮件设置"
 
 msgid "Various settings that affect GitLab performance."
-msgstr ""
+msgstr "多项影响到 GitLab 性能的设置"
 
 msgid "View and edit lines"
 msgstr "查看和编辑行"
@@ -4623,7 +4623,7 @@ msgid "Web IDE"
 msgstr "Web IDE"
 
 msgid "Web terminal"
-msgstr ""
+msgstr "Web 终端"
 
 msgid "Webhooks allow you to trigger a URL if, for example, new code is pushed or a new issue is created. You can configure webhooks to listen for specific events like pushes, issues or merge requests. Group webhooks will apply to all projects in a group, allowing you to standardize webhook functionality across your entire group."
 msgstr "如果有新的推送或新的议题，Webhook将自动触发您设置URL。 您可以配置 Webhook 来监听特定事件，如推送、议题或合并请求。 群组 Webhook 将适用于团队中的所有项目，并允许您设置整个团队中的 Webhook 。"
@@ -5054,7 +5054,7 @@ msgid "mrWidget|Approve"
 msgstr "批准"
 
 msgid "mrWidget|Approved"
-msgstr ""
+msgstr "已批准"
 
 msgid "mrWidget|Approved by"
 msgstr "批准人:"
@@ -5189,7 +5189,7 @@ msgid "mrWidget|This project is archived, write access has been disabled"
 msgstr "该项目已存档，禁止写入"
 
 msgid "mrWidget|Web IDE"
-msgstr ""
+msgstr "Web IDE"
 
 msgid "mrWidget|You can merge this merge request manually using the"
 msgstr "可以手动合并此合并请求，使用以下"
